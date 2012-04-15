@@ -1,0 +1,19 @@
+{
+  "author": "Jordi Romero <jordi@jrom.net> (http://jrom.net/)",
+  "name": "chat",
+  "description": "Chat server",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrom/chat.git"
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "express":"2.5.9",
+    "socket.io":"0.9.5"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
